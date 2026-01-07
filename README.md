@@ -1,5 +1,5 @@
 # Gerenciador de Notas
-
+Este projeto foi **desenvolvido como atividade da disciplina de Técnicas de Programação**, do curso da **FATEC de Registro**, durante o **2º semestre** da graduação.
 Aplicação desktop desenvolvida em **Java**, com interface gráfica baseada em **JOptionPane**, voltada para o gerenciamento de notas de alunos.  
 O projeto demonstra conceitos fundamentais de **Programação Orientada a Objetos**, estruturação de classes, controle de fluxo e validação de dados.
 
